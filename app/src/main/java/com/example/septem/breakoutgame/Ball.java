@@ -1,7 +1,7 @@
 package com.example.septem.breakoutgame;
 
 /**
- * Ball class, written by Jiawei Liu
+ * Ball class, written by Haowei Wang
  *
  */
 import android.graphics.RectF;

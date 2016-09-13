@@ -1,6 +1,6 @@
 package com.example.septem.breakoutgame;
 /**
- * Main Activity class, written by Haowei Wang, Jiawei Liu
+ * Main Activity class, written by Haowei Wang
  */
 
 import android.app.Activity;

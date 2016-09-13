@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Game over Layout to show score, duration and total score, written by Jiawei Liu-->
+<!-- Game over Layout to show score, duration and total score, written by Haowei Wang-->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
 
     android:layout_width="match_parent"

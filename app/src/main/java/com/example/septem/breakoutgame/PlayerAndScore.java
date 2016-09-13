@@ -1,7 +1,7 @@
 package com.example.septem.breakoutgame;
 
 /**
- * Player name and score class, written by Jiawei Liu on 5/2/16.
+ * Player name and score class, written by Haowei Wang on 5/2/16.
  */
 public class PlayerAndScore {
 

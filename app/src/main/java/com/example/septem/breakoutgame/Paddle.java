@@ -1,7 +1,7 @@
 package com.example.septem.breakoutgame;
 
 /**
- * Paddle class, written by Jiawei Liu.
+ * Paddle class, written by Haowei Wang.
  */
 import android.graphics.RectF;
 

@@ -18,7 +18,7 @@ import java.io.OutputStreamWriter;
 import java.util.PriorityQueue;
 
 /**
- * Rank Activity, written by Jiawei Liu on 5/1/16.
+ * Rank Activity, written by Haowei Wang on 5/1/16.
  */
 public class RankActivity extends Activity{
 
